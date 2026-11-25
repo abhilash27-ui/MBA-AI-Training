@@ -1,0 +1,82 @@
+"What is the set of social guidelines that govern polite, productive email communication called?",Email etiquette.
+"According to email etiquette, what is the minimum amount of time you should generally wait before sending a follow-up email?",At least 24 hours.
+"To avoid cluttered inboxes and hide recipient email addresses from each other in a mass email, you should use the _____ field.",Bcc (blind carbon copy).
+What is the purpose of the 'Cc' (carbon copy) field in an email?,To include multiple recipients in an email while communicating that a reply is not necessarily expected from all of them.
+The email etiquette rule of responding to every email within _____ also extends to phone calls and other forms of communication.,24 hours.
+What should you set up before leaving for vacation to automatically inform senders that you are away and unable to read emails?,An email auto-responder or out-of-office reply.
+"To prevent misunderstandings after a meeting, it's good practice to send a follow-up email that _____ the topics discussed.",reiterates
+"Why is it important to use standard fonts like Arial, Helvetica, or Times New Roman in professional emails?",They communicate professionalism and appear correctly in any browser or on any device.
+"In professional emails, you should use a _____ case, which means capitalizing the first letter of the first word in a sentence and all proper nouns.",sentence
+What is a key principle of the PARA Method for organizing digital information?,Organizing by actionability.
+"In the PARA Method, what does 'P' stand for?",Projects: tasks you are currently working on that have a concrete outcome and timeframe.
+"In the PARA Method, 'A' stands for Areas, which are your responsibilities that _____.",don't have an end date
+"In the PARA Method, 'R' stands for what category of information?",Resources: your interests and curiosities.
+"In the PARA Method, the 'Archives' category contains items from Projects, Areas, and Resources that are _____.",no longer relevant
+"In a spreadsheet, what is a document that stores data in a grid of horizontal rows and vertical columns called?",A spreadsheet or worksheet.
+What is the intersection of a column and a row in a spreadsheet called?,A cell.
+"In spreadsheet applications like Excel, a file containing one or more worksheets is called a _____.",workbook
+"In a spreadsheet formula, the cell address (e.g., A1) is known as the _____.",cell reference
+What symbol must every formula in Google Sheets or Excel begin with?,An equals sign (=).
+What is the primary function of a web browser?,To access and display information from the World Wide Web.
+"The main component of a web browser that converts website code (HTML, CSS) into the visual elements you see on a page is called the _____.",rendering engine
+What is the fundamental security mechanism of the web that restricts how a script loaded from one origin can interact with a resource from another origin?,The Same-origin policy.
+"The protocol that provides security and privacy by encrypting data during transport over the network is called Transport Layer Security (TLS), which is the technology behind _____.",HTTPS
+An attack where a user is tricked into clicking a UI element that performs an action different from what they expect is known as _____.,clickjacking
+"In Google Slides, what is the feature that controls the overall look and feel of your deck, including custom layouts, backgrounds, and fonts?",The Theme builder (similar to Slide Master in PowerPoint).
+"In presentation design, what is the 'action safe' area?",The central area (typically 95%) of the slide where text and images should be placed to ensure they are visible on most screens.
+What is a general rule for font size in a presentation for content text?,It should be no smaller than 24 point.
+Why is it recommended to avoid using all capital letters for text in a presentation?,"It makes text harder to read, conceals acronyms, and denies their use for emphasis."
+"In Google Slides, how do you add a slide that is an exact copy of an existing slide, including its content?",Right-click the slide thumbnail and select 'Duplicate slide'.
+What feature in Google Slides allows you to keep a slide in your deck but not show it during a presentation?,The 'Skip slide' option.
+"In Google Slides, what does the 'Version history' feature allow you to do?",It allows you to see all past iterations of a document and revert back to an earlier version if necessary.
+What happens automatically to your work in Google Slides when you are working online?,Changes are saved automatically; there is no manual 'Save' button.
+Term: Spreadsheet Function,"Definition: A predefined formula that performs calculations using specific values (arguments) in a particular order, such as SUM or AVERAGE."
+"In Excel, the _____ function provides a shortcut to adding up columns or rows of numbers with a single click.",AutoSum
+This type of cell reference in a spreadsheet formula automatically changes when the formula is copied to another cell.,Relative reference.
+"To prevent a cell reference from changing when a formula is copied, you should use an _____ reference, which is created by adding a dollar symbol ($) before the column letter and row number.",absolute
+"A _____ reference in a spreadsheet is a combination of relative and absolute references, where either the column or the row is fixed.",mixed
+The feature in Excel and Google Sheets that allows you to quickly fill cells with sequential data (like dates or numbers) by dragging a small square in the cell's corner is called the _____.,fill handle
+"What spreadsheet feature temporarily hides rows that do not meet specified criteria, without rearranging the list?",Filtering.
+"What is the term for a visual representation of data in a worksheet, such as a bar, pie, or line graph?",A chart.
+"In a chart, the _____ is the key that describes what each color or pattern represents.",legend
+"Which type of chart is most effective for displaying the contribution of each value to a total, or the percentages of a whole?",A pie chart.
+A(n) _____ is a software program that allows a user to access information on the Internet via the World Wide Web.,web browser
+This feature in a web browser allows a user to save websites for easy access later without having to remember the complete URL.,Bookmarks.
+What browser mode lets a user browse the internet without saving any browsing history or cookies?,Incognito or private browsing mode.
+What is the purpose of client-side form validation on a website?,To inform users when they have entered data in the wrong format before submitting it to the server.
+"Why shouldn't sensitive data, like passwords, be included in URL query strings?","Because the URL can be intercepted, indexed by search engines, or stored in browser history, exposing the sensitive data."
+What type of email greeting is considered formal and appropriate when the recipient is in a conservative industry or you are contacting them for the first time?,Dear Mr./Ms. [last name].
+What is the email sign-off 'Cheers' generally considered?,An informal sign-off.
+"The act of sending a deceptive message (e.g., email) with a link to a fraudulent site to trick users into revealing sensitive information is called _____.",phishing
+"In Google Sheets, the _____ feature allows you to lock specific rows or columns so they are always visible when you scroll.",Freeze Panes
+"In a spreadsheet, what does the VLOOKUP function do?",It looks up a value in the first column of a table and returns the corresponding value from another column.
+What does the COUNT function in a spreadsheet calculate?,It counts the number of cells in a given range that contain numbers.
+The keyboard shortcut in Google Slides to insert a hyperlink is _____.,CTRL + K.
+"In Google Slides, how can you share a presentation with others for real-time collaboration?",By clicking the 'Share' button and entering their email addresses or generating a shareable link.
+What does it mean to 'wrap text' in a spreadsheet cell?,It makes the text display on multiple lines within the cell so it is all visible.
+The feature in Google Slides and other presentation software that allows you to see your speaker notes and upcoming slides on your screen while the audience only sees the main slide is called _____.,Presenter View
+"To avoid a jarring visual experience for the audience, presentation guidelines recommend using the same _____ on each slide.",background
+What is the primary risk of using too much or inconsistent animation in a presentation?,It can be distracting and cause the audience to focus on the animation rather than the message.
+"In a presentation, bullet points should be kept to _____ line(s) each, with a maximum of six per slide.",one or two
+"An email signature is text, like your contact information, that is automatically added at the _____ of Gmail messages.",end
+"If you paste a URL directly into an email, it can look messy. Instead, you should create a _____.",hyperlink
+"In Google Sheets, if a cell is too narrow to display a number, it may show a series of _____ symbols.",number signs (#####)
+What is the purpose of the 'Reply all' button in an email client?,To send a response to everyone in the 'To' and 'Cc' fields of the original email.
+When should you use the 'Reply all' feature in an email?,Only when your response contains critical information that everyone on the original email needs to know.
+Which spreadsheet function is used to find the smallest value from a supplied set of numeric values?,The MIN function.
+Which spreadsheet function returns the largest value from a supplied set of numeric values?,The MAX function.
+"In Google Slides, how do you group multiple objects together so they can be moved or resized as a single unit?","Select the objects, then right-click and choose 'Group' or use the shortcut CTRL + ALT + G."
+A spreadsheet feature that flips and sums data to allow for data analysis and generating reports like periodic financial statements is called a _____.,PivotTable
+What is the term for a chart that resides in the same worksheet as its source data?,An embedded chart.
+"In spreadsheet formulas, what is the operator for multiplication?",The asterisk (*).
+"In spreadsheet formulas, what is the operator for division?",The forward slash (/).
+What is the difference between sorting and filtering data in a spreadsheet?,"Sorting rearranges the data (e.g., alphabetically), while filtering temporarily hides data that doesn't meet certain criteria."
+This type of chart uses horizontal bars to represent and compare data.,Bar chart.
+The technology used to protect websites by encrypting the connection between the browser and the server is _____.,HTTPS (Hypertext Transfer Protocol Secure).
+What information should be included in an out-of-office auto-reply?,The dates you will be out of the office and a colleague to contact for urgent matters.
+"In Excel, a _____ is a predefined set of colors, fonts, and effects that can be applied to your entire workbook for a consistent look.",theme
+What is the key benefit of using cell references in formulas instead of constant values?,The formula will automatically recalculate if the data in the referenced cells is changed.
+"In presentation design, what is the risk of using color combinations with low contrast, such as dark yellow on green?","They are difficult to read, especially from a distance."
+"In Google Slides, what feature allows you to receive and display questions from your audience during a presentation?","The Audience Q&A feature, accessible from Presenter View."
+What is the main component of Unit 2: Data & Presentation in the 'Digital Skills & Collaboration' course?,Moving from basic spreadsheets to creating impactful charts and presentations.
+"To prevent unauthorized changes to a worksheet in Excel, you can use the _____ feature.",Protect Sheet
